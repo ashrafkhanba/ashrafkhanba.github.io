@@ -130,7 +130,7 @@ footer{
   }
 }
 
-@media (max-width: 580px) and (min-width:200px){
+@media (max-width: 580px) and (min-width:10px){
   iframe {
       padding-top: 30%;
       display: none;
